@@ -17,7 +17,7 @@ The following steps were followed:
 6. Visualising the performance of the model 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Python  
 - pandas  
 - NumPy  
