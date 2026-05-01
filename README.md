@@ -1,13 +1,11 @@
 ##Customer Purchase Prediction using K-Nearest Neighbors (KNN)
 ##  Project Overview
-This project applies the K-Nearest Neighbors algorithm to predict whether a customer is likely to purchase a car based on features such as age and salary.
-The goal is to explore how instance-based learning methods like KNN can be used for customer segmentation and targeted marketing.
+In this project I  apply the K-Nearest Neighbors algorithm to predict whether a customer will purchase a car based on features such as age and salary.
+My aim is to explore how instance-based learning methods like KNN can be used for customer segmentation and targeted marketing.
 ##  Problem Statement
 Businesses want to identify customers who are more likely to purchase their products in order to improve marketing efficiency and increase sales.
-
-In this project, I predict customer purchase behavior using demographic features.
 ##  Approach
-The following steps were followed:
+I took the  following steps:
 
 1. Data loading and exploration    
 2. Feature scaling 
@@ -31,13 +29,12 @@ The model was evaluated using:
 - Accuracy score  
 - Confusion matrix  
 
-These metrics help assess how well the model predicts customer purchasing behavior.
+These metrics helped me assess how well the model predicts customer purchasing behavior.
 
 ---
 
 ## Key Insight
-KNN relies heavily on distance between data points, making feature scaling an important step. Proper preprocessing significantly improves model performance.
-
+KNN relies heavily on distance between data points, making feature scaling an important step. 
 ---
 
 ## Business Impact
