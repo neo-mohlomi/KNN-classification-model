@@ -1,7 +1,7 @@
 ##Customer Purchase Prediction using K-Nearest Neighbors (KNN)
 ##  Project Overview
 In this project I  apply the K-Nearest Neighbors algorithm to predict whether a customer will purchase a car based on features such as age and salary.
-My aim is to explore how instance-based learning methods like KNN can be used for customer segmentation and targeted marketing.
+My aim is to explore how instance-based learning methods like KNN can be used for customer segmentation and targeted marketing.Additionally I want to compare the results to the results I obtained using the Logistic Regression 
 ##  Problem Statement
 Businesses want to identify customers who are more likely to purchase their products in order to improve marketing efficiency and increase sales.
 ##  Approach
@@ -48,5 +48,4 @@ This model can help businesses:
 
 ##  Comparison with Logistic Regression
 Unlike Logistic Regression, which assumes a linear relationship, KNN is a non-parametric method that can capture more complex patterns in the data.
-
-This comparison helps in selecting the most suitable model for customer prediction tasks.And based on the accuracy score , the KNN proved to be more reliable than Logistic regression
+And based on the accuracy score , the KNN proved to be more reliable than Logistic regression
